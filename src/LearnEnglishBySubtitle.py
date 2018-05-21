@@ -173,12 +173,12 @@ if __name__=="__main__":
 		logging.info(sys.argv[idx])
 
 	if len_of_arguments < 2:
-		first_subtitle = "../res/Transformers_Revenge_Of_The_Fallen_2009_3Li_BluRay_English.srt"
+		first_subtitle = "../res/Samson.2018.1080p.x264.srt"
 	else:
 		first_subtitle = sys.argv[1]
 
 	if len_of_arguments < 3:
-		second_subtitle = "../res/Transformers_Revenge_Of_The_Fallen_2009_3Li_BluRay_Korean.srt"
+		second_subtitle = "../res/Samson.2018.1080p.x264.smi"
 	else:
 		second_subtitle = sys.argv[2]
 
