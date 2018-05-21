@@ -9,7 +9,6 @@ sys.setdefaultencoding('utf-8')
 import os
 from operator import eq
 
-import pprint # pretty print
 import logging
 logging.basicConfig(filename='python_logging.log', level=logging.DEBUG)
 import ExtractInfoAtSubtitles

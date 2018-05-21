@@ -1,6 +1,5 @@
 import os
 import codecs
-import pprint	# pretty print
 import logging
 
 from operator import eq
